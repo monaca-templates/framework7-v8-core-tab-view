@@ -299,7 +299,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
       </div>
     </div>
   </div>
-`}}Xn.id="baad105075";function Gn(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
+`}}Xn.id="8aeec5c874";function Gn(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
 <div class="page" data-name="about">
   <div class="navbar">
     <div class="navbar-bg"></div>
@@ -328,7 +328,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
     </div>
   </div>
 </div>
-`}}Gn.id="6144cb73c9";function Un(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
+`}}Gn.id="81e637b51d";function Un(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
 <div class="page" data-name="form">
   <div class="navbar">
     <div class="navbar-bg"></div>
@@ -569,7 +569,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
     </div>
   </div>
 </div>
-`}}Un.id="dc21527d22";function _n(s,{$store:e}){const a=e.getters.products,t=()=>{e.dispatch("addProduct",{id:"4",title:"Apple iPhone 12",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis."})};return function(n){n.$;var r=n.$h;return n.$root,n.$f7,n.$f7route,n.$f7router,n.$theme,n.$update,n.$store,r`
+`}}Un.id="d6237946c6";function _n(s,{$store:e}){const a=e.getters.products,t=()=>{e.dispatch("addProduct",{id:"4",title:"Apple iPhone 12",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis."})};return function(n){n.$;var r=n.$h;return n.$root,n.$f7,n.$f7route,n.$f7router,n.$theme,n.$update,n.$store,r`
   <div class="page" data-name="catalog">
     <div class="navbar">
       <div class="navbar-bg"></div>
@@ -598,7 +598,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
       `}
     </div>
   </div>
-`}}_n.id="ad2d9611cb";function Kn(s,{$f7route:e,$store:a}){const t=a.getters.products,n=e.params.id;let r;return t.value.forEach(i=>{i.id===n&&(r=i)}),function(i){i.$;var o=i.$h;return i.$root,i.$f7,i.$f7route,i.$f7router,i.$theme,i.$update,i.$store,o`
+`}}_n.id="82adeb400f";function Kn(s,{$f7route:e,$store:a}){const t=a.getters.products,n=e.params.id;let r;return t.value.forEach(i=>{i.id===n&&(r=i)}),function(i){i.$;var o=i.$h;return i.$root,i.$f7,i.$f7route,i.$f7router,i.$theme,i.$update,i.$store,o`
   <div class="page" data-name="product">
     <div class="navbar">
       <div class="navbar-bg"></div>
@@ -619,7 +619,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
       </div>
     </div>
   </div>
-`}}Kn.id="9b8a0213b8";function Qn(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
+`}}Kn.id="5f895f58b5";function Qn(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
 <div class="page" data-name="settings">
   <div class="navbar">
     <div class="navbar-bg"></div>
@@ -854,7 +854,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
     </div>
   </div>
 </div>
-`}}Qn.id="1a2e58e898";function Ja(s,{$f7:e,$on:a,$onBeforeMount:t,$onMounted:n,$onBeforeUnmount:r,$onUnmounted:i}){let o="Jimmy",l=25,c=["Tennis","Chess","Football"];const d=()=>{e.dialog.alert("Hello World")};return t(()=>{console.log("onBeforeMount")}),n(()=>{console.log("onMounted")}),r(()=>{console.log("onBeforeUnmount")}),i(()=>{console.log("onUnmounted")}),a("pageMounted",(u,p)=>{console.log("pageMounted",p)}),a("pageInit",(u,p)=>{console.log("pageInit",p)}),a("pageBeforeIn",(u,p)=>{console.log("pageBeforeIn",p)}),a("pageAfterIn",(u,p)=>{console.log("pageAfterIn",p)}),a("pageBeforeOut",(u,p)=>{console.log("pageBeforeOut",p)}),a("pageAfterOut",(u,p)=>{console.log("pageAfterOut",p)}),a("pageBeforeRemove",(u,p)=>{console.log("pageBeforeRemove",p)}),function(u){u.$;var p=u.$h;u.$root,u.$f7;var g=u.$f7route;u.$f7router;var h=u.$theme;return u.$update,u.$store,p`
+`}}Qn.id="49a43bb996";function Ja(s,{$f7:e,$on:a,$onBeforeMount:t,$onMounted:n,$onBeforeUnmount:r,$onUnmounted:i}){let o="Jimmy",l=25,c=["Tennis","Chess","Football"];const d=()=>{e.dialog.alert("Hello World")};return t(()=>{console.log("onBeforeMount")}),n(()=>{console.log("onMounted")}),r(()=>{console.log("onBeforeUnmount")}),i(()=>{console.log("onUnmounted")}),a("pageMounted",(u,p)=>{console.log("pageMounted",p)}),a("pageInit",(u,p)=>{console.log("pageInit",p)}),a("pageBeforeIn",(u,p)=>{console.log("pageBeforeIn",p)}),a("pageAfterIn",(u,p)=>{console.log("pageAfterIn",p)}),a("pageBeforeOut",(u,p)=>{console.log("pageBeforeOut",p)}),a("pageAfterOut",(u,p)=>{console.log("pageAfterOut",p)}),a("pageBeforeRemove",(u,p)=>{console.log("pageBeforeRemove",p)}),function(u){u.$;var p=u.$h;u.$root,u.$f7;var g=u.$f7route;u.$f7router;var h=u.$theme;return u.$update,u.$store,p`
   <div class="page">
     <div class="navbar">
       <div class="navbar-bg"></div>
@@ -910,7 +910,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
       </div>
     </div>
   </div>
-`}}Ja.id="7660a32cc3";Ja.style=`
+`}}Ja.id="1797a449aa";Ja.style=`
   p {
     margin: 10px 0;
   }
@@ -941,7 +941,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
       </div>
     </div>
   </div>
-`}}Zn.id="8d64892a6c";function Jn(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
+`}}Zn.id="7c43899ead";function Jn(){return function(s){s.$;var e=s.$h;return s.$root,s.$f7,s.$f7route,s.$f7router,s.$theme,s.$update,s.$store,e`
 <div class="page">
   <div class="navbar">
     <div class="navbar-bg"></div>
@@ -962,7 +962,7 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
     </div>
   </div>
 </div>
-`}}Jn.id="81933529f2";var Up=[{path:"/",component:Xn},{path:"/about/",component:Gn},{path:"/form/",component:Un},{path:"/catalog/",component:_n},{path:"/product/:id/",component:Kn},{path:"/settings/",component:Qn},{path:"/dynamic-route/blog/:blogId/post/:postId/",component:Ja},{path:"/request-and-load/user/:userId/",async:function({router:s,to:e,resolve:a}){var t=s.app;t.preloader.show(),e.params.userId,setTimeout(function(){var n={firstName:"Vladimir",lastName:"Kharlampidi",about:"Hello, i am creator of Framework7! Hope you like it!",links:[{title:"Framework7 Website",url:"http://framework7.io"},{title:"Framework7 Forum",url:"http://forum.framework7.io"}]};t.preloader.hide(),a({component:Zn},{props:{user:n}})},1e3)}},{path:"(.*)",component:Jn}];Ot.use([wn]);Xa.use([un,pn,fn,hn,mn,En,Ua,Pn,Mn,An,In,On,Bn,Ln,Dn,Rn,Hn,zn]);const _p=Da({state:{products:[{id:"1",title:"Apple iPhone 8",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis."},{id:"2",title:"Apple iPhone 8 Plus",description:"Velit odit autem modi saepe ratione totam minus, aperiam, labore quia provident temporibus quasi est ut aliquid blanditiis beatae suscipit odio vel! Nostrum porro sunt sint eveniet maiores, dolorem itaque!"},{id:"3",title:"Apple iPhone X",description:"Expedita sequi perferendis quod illum pariatur aliquam, alias laboriosam! Vero blanditiis placeat, mollitia necessitatibus reprehenderit. Labore dolores amet quos, accusamus earum asperiores officiis assumenda optio architecto quia neque, quae eum."}]},getters:{products({state:s}){return s.products}},actions:{addProduct({state:s},e){s.products=[...s.products,e]}}});function er(s,{$f7:e,$update:a}){let t="",n="";const r=l=>{t=l.target.value,a()},i=l=>{n=l.target.value,a()},o=()=>{e.dialog.alert("Username: "+t+"<br/>Password: "+n,()=>{e.loginScreen.close()})};return function(l){l.$;var c=l.$h;return l.$root,l.$f7,l.$f7route,l.$f7router,l.$theme,l.$update,l.$store,c`
+`}}Jn.id="5205403f31";var Up=[{path:"/",component:Xn},{path:"/about/",component:Gn},{path:"/form/",component:Un},{path:"/catalog/",component:_n},{path:"/product/:id/",component:Kn},{path:"/settings/",component:Qn},{path:"/dynamic-route/blog/:blogId/post/:postId/",component:Ja},{path:"/request-and-load/user/:userId/",async:function({router:s,to:e,resolve:a}){var t=s.app;t.preloader.show(),e.params.userId,setTimeout(function(){var n={firstName:"Vladimir",lastName:"Kharlampidi",about:"Hello, i am creator of Framework7! Hope you like it!",links:[{title:"Framework7 Website",url:"http://framework7.io"},{title:"Framework7 Forum",url:"http://forum.framework7.io"}]};t.preloader.hide(),a({component:Zn},{props:{user:n}})},1e3)}},{path:"(.*)",component:Jn}];Ot.use([wn]);Xa.use([un,pn,fn,hn,mn,En,Ua,Pn,Mn,An,In,On,Bn,Ln,Dn,Rn,Hn,zn]);const _p=Da({state:{products:[{id:"1",title:"Apple iPhone 8",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis."},{id:"2",title:"Apple iPhone 8 Plus",description:"Velit odit autem modi saepe ratione totam minus, aperiam, labore quia provident temporibus quasi est ut aliquid blanditiis beatae suscipit odio vel! Nostrum porro sunt sint eveniet maiores, dolorem itaque!"},{id:"3",title:"Apple iPhone X",description:"Expedita sequi perferendis quod illum pariatur aliquam, alias laboriosam! Vero blanditiis placeat, mollitia necessitatibus reprehenderit. Labore dolores amet quos, accusamus earum asperiores officiis assumenda optio architecto quia neque, quae eum."}]},getters:{products({state:s}){return s.products}},actions:{addProduct({state:s},e){s.products=[...s.products,e]}}});function er(s,{$f7:e,$update:a}){let t="",n="";const r=l=>{t=l.target.value,a()},i=l=>{n=l.target.value,a()},o=()=>{e.dialog.alert("Username: "+t+"<br/>Password: "+n,()=>{e.loginScreen.close()})};return function(l){l.$;var c=l.$h;return l.$root,l.$f7,l.$f7route,l.$f7router,l.$theme,l.$update,l.$store,c`
   <div id="app">
 
     <!-- Left panel with cover effect-->
@@ -1103,4 +1103,4 @@ ${l.toString()}`)}return n&&(typeof n=="string"?o+=`?${n}`:Object.keys(n).length
     </div>
 
   </div>
-`}}er.id="3e7f5e2e11";new Xa({name:"framework7-v8-core-tab-view",theme:"auto",el:"#app",component:er,store:_p,routes:Up});
+`}}er.id="64f04a00b8";new Xa({name:"framework7-v8-core-tab-view",theme:"auto",el:"#app",component:er,store:_p,routes:Up});
